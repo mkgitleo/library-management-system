@@ -36,7 +36,7 @@ sudo apt install g++ sqlite3 libsqlite3-dev
 ### Step 2: Download Project
 ```powershell
 # Using Git
-git clone https://github.com/YourUsername/library-management-system.git
+git clone https://github.com/mkgitleo/library-management-system.git
 cd library-management-system
 
 # OR: Download ZIP and extract
@@ -61,7 +61,7 @@ g++ src/lib_management_sys_sqlite3.cpp -o lib_management.exe -lsqlite3
 sudo apt update
 sudo apt install g++ sqlite3 libsqlite3-dev git
 
-git clone https://github.com/YourUsername/library-management-system.git
+git clone https://github.com/mkgitleo/library-management-system.git
 cd library-management-system
 
 g++ src/lib_management_sys_sqlite3.cpp -o lib_management -lsqlite3
@@ -73,7 +73,7 @@ g++ src/lib_management_sys_sqlite3.cpp -o lib_management -lsqlite3
 ```bash
 sudo dnf install gcc-c++ sqlite-devel git
 
-git clone https://github.com/YourUsername/library-management-system.git
+git clone https://github.com/mkgitleo/library-management-system.git
 cd library-management-system
 
 g++ src/lib_management_sys_sqlite3.cpp -o lib_management -lsqlite3
@@ -92,7 +92,7 @@ g++ src/lib_management_sys_sqlite3.cpp -o lib_management -lsqlite3
 # Install dependencies
 brew install gcc sqlite3 git
 
-git clone https://github.com/YourUsername/library-management-system.git
+git clone https://github.com/mkgitleo/library-management-system.git
 cd library-management-system
 
 g++ src/lib_management_sys_sqlite3.cpp -o lib_management -lsqlite3
