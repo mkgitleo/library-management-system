@@ -43,7 +43,8 @@ A **professional C++ desktop application** for complete library operations with 
 
 ```powershell
 # 1. Clone repository
-git clone https://github.com/YourUsername/library-management-system.git
+git clone https://github.com/mkgitleo/library-management-system.git
+
 cd library-management-system
 
 # 2. Build (automatic with build.bat)
@@ -61,7 +62,8 @@ sudo apt install g++ sqlite3 libsqlite3-dev    # Ubuntu/Debian
 brew install gcc sqlite3                        # Mac
 
 # Clone and build
-git clone https://github.com/YourUsername/library-management-system.git
+git clone https://github.com/mkgitleo/library-management-system.git
+
 cd library-management-system
 
 g++ src/lib_management_sys_sqlite3.cpp -o lib_management -lsqlite3
