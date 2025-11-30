@@ -379,12 +379,12 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name** (@YourGitHubUsername)
+**MANISH** (@mkgitleo)
 
 - 🎓 BTech ECE, NSUT
-- 💻 C++ | SQLite | System Design
-- 📧 your.email@gmail.com
-- 🔗 [GitHub Profile](https://github.com/YourUsername)
+- 💻 C++ | SQLite 
+- 📧 manish-ug22@nsut.ac.in
+- 🔗 [https://github.com/mkgitleo]
 
 ---
 
@@ -409,4 +409,3 @@ If this project was useful:
 
 **Happy Coding! 🚀**
 
-Questions? Open an [Issue](https://github.com/YourUsername/library-management-system/issues)
